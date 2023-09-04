@@ -1,2 +1,3 @@
 #!/bin/bash
-print ('Best School')
+$PYFILE = 'Best School'
+print ('$PYFILE')
